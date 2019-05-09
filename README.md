@@ -20,6 +20,6 @@ Le backend est réalisé avec firebase et une partie avec l'orm Room.
 
 ![alt-text-1](img/comments.png "Commenter un menu") ![alt-text-2](img/add_drinks.png "Ajouter une boisson au menu")
 
-![alt-text-1](img/pick_delivery_adress.png "Choix de l'adresse de livraison") ![alt-text-2](img/panier_avant achat.png "Consulter le panier")
+![alt-text-1](img/pick_delivery_adress.png "Choix de l'adresse de livraison") ![alt-text-2](img/panier_avant%20achat.png "Consulter le panier")
 
 ![alt-text-1](img/profil.png "Consulter le profil") ![alt-text-2](img/editer_profil.png "Modification du profil")
