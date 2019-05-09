@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/restau" android:title="@string/restau" android:icon="@drawable/ic_restaurant_menu_black_24dp" />
+<item android:id="@+id/search" android:title="@string/Rechercher" android:icon="@drawable/ic_search_black_24dp" />
+<item android:id="@+id/balance" android:title="@string/panier" android:icon="@drawable/ic_shopping_basket_black_24dp"/>
+<item android:id="@+id/account" android:title="@string/compte" android:icon="@drawable/ic_perm_identity_black_24dp" />
+</menu>
